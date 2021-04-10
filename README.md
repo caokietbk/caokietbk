@@ -11,7 +11,6 @@
 <a href="https://postgresql.org/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/postgresql/postgresql.svg" align="center" alt="Postgresql" height='42px'/> </a>
 <a href="https://swift.org/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/swift/swift.svg" align="center" alt="Swift" height='42px'/> </a>
 </p>
-<br>
 <hr></hr>
 
 -  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux.gif?raw=true" /><br>
