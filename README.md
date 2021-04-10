@@ -2,16 +2,15 @@
 
 ## 🚀💻 Technologies & Tools
 
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dartlang" width="55" height="55"/>
-</p>
-  
-
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/android/android.svg"> </a>
+<a href="https://dart.dev" target="_blank"> <img align="left" alt="Dart" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/dart/dart.svg"> </a>
+<a href="https://flutter.dev" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/flutter/flutter.svg"> </a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://postgresql.org/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/postgresql/postgresql.svg" align="left" alt="Postgresql" height='42px'/> </a>
+<a href="https://swift.org/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/swift/swift.svg" align="left" alt="Swift" height='42px'/> </a>
+<br>
 <hr></hr>
 
 -  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux.gif?raw=true" /><br>
