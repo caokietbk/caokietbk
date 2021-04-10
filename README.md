@@ -1,6 +1,6 @@
-# Hi, I'm Cao Kiệt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Cao Kiệt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-## 🚀💻 Technologies & Tools
+## 🚀 Technologies & Tools
 <p align="center">
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/android/android.svg"> </a>
 <a href="https://dart.dev" target="_blank"> <img align="left" alt="Dart" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/dart/dart.svg"> </a>
@@ -12,6 +12,7 @@
 <a href="https://swift.org/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/swift/swift.svg" align="left" alt="Swift" height='42px'/> </a>
 </p>
 <br>
+<hr></hr>
 
 -  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux.gif?raw=true" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring and learning new **Technology**. <br>
