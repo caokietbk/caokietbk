@@ -2,20 +2,15 @@
 
 ## 🚀💻 Technologies & Tools
 
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-green?style=plastic&logo=jetbrains)
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="55" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dartlang" width="55" height="55"/>
+</p>
   
-  ![Linux](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black)
-
-  ![Android](https://img.shields.io/badge/Android-05150C?style=plastic&logo=android)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
-  ![Java](https://img.shields.io/badge/Java-3f4441?style=plastic&logo=java)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-  ![Postman](https://img.shields.io/badge/Postman-black?style=plastic&logo=postman)
-  
-  
-  
-  <!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"-->
 
 <hr></hr>
 
@@ -27,10 +22,10 @@
 
 <div align="center" >
   
-<a  href="https://github.com/SP-XD"> 
+<a  href="https://github.com/caokietbk"> 
   
-<img alt="caokietbk's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=caokietbk&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caokietbk&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/caokietbk" />
+<img alt="" width="50%" src="https://github-readme-stats.vercel.app/api?username=caokietbk&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" href="https://github.com/caokietbk" />
+<img alt="" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caokietbk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" href="https://github.com/caokietbk" />
 
 </a>
 
