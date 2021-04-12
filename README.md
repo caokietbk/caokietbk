@@ -1,5 +1,16 @@
 # Hi, I'm Cao Kiệt <img src="https://github.com/caokietbk/caokietbk/blob/d634b14ba8a2a81b28adabcbcc361956acd276c5/assets/gifs/wave.gif" width="35px">
 
+## 🚀 OSs
+[![OS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)](https://www.apple.com/macos/)
+![MacOS](https://img.shields.io/badge/-MacOS-black?style=plastic&logo=apple)
+[![OS](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/)
+[![OS](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/)
+[![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ%20IDEA&color=2ea44f&logo=intellij-idea)](https://)
+## 🚀 IDEs
+![Vim](https://img.shields.io/badge/-Vim-00ff00?style=plastic&logo=vim)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffffff?style=plastic&logo=jetbrains&logoColor=black)
+
 ## 🚀 Technologies
 <p align="center">
 <a href="https://www.java.com" target="_blank"><img align="center" alt="Java" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/java/java.svg"></a>
