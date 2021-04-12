@@ -17,7 +17,7 @@
 <a href="https://swift.org/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/swift/swift.svg" align="center" alt="Swift" height='42px'/> </a>
 <a href="https://dart.dev" target="_blank"> <img align="center" alt="Dart" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/dart/dart.svg"> </a>
 <a href="https://flutter.dev" target="_blank"> <img align="center" alt="Flutter" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/flutter/flutter.svg"> </a>
-<a href="https://neovim.io" target="_blank"> <img align="center" alt="Neovim" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/24e06ac27c11c756a3cb0775a13094b89b47d5d6/square/neovim/neovim.svg"> </a>
+<!-- <a href="https://neovim.io" target="_blank"> <img align="center" alt="Neovim" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/24e06ac27c11c756a3cb0775a13094b89b47d5d6/square/neovim/neovim.svg"> </a> -->
 <a href="https://firebase.google.com/" target="_blank"> <img align="center" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/git-scm/git-scm.svg" align="center" alt="git" height='42px'/> </a>
 <a href="https://postgresql.org/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/postgresql/postgresql.svg" align="center" alt="Postgresql" height='42px'/> </a>
