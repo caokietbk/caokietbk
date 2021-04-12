@@ -8,7 +8,7 @@
 ## 📝 IDEs
 ![Vim](https://img.shields.io/badge/-Vim-00ff00?style=plastic&logo=vim)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=plastic&logo=intellij-idea)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-141414?style=plastic&logo=intellij-idea)
 
 ## 🚀 Technologies
 <p align="center">
