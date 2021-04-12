@@ -3,7 +3,7 @@
 ## 💻 OSs
 ![MacOS](https://img.shields.io/badge/-MacOS-5c5c5c?style=plastic&logo=apple)
 ![Windows](https://img.shields.io/badge/-Windows-5c5c5c?style=plastic&logo=windows)
-[![Linux](https://img.shields.io/badge/-Linux-5c5c5c?style=plastic&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-5c5c5c?style=plastic&logo=linux&logoColor=white)
 
 ## 📝 IDEs
 ![Vim](https://img.shields.io/badge/-Vim-00ff00?style=plastic&logo=vim)
