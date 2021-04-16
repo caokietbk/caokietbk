@@ -24,7 +24,7 @@
 </p>
 <hr></hr>
 
--  <img alt="GIF" src="https://github.com/caokietbk/caokietbk/blob/d634b14ba8a2a81b28adabcbcc361956acd276c5/assets/gifs/developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter**. <img width="15%" align="right" alt="Github Image" src="https://github.com/caokietbk/caokietbk/blob/d634b14ba8a2a81b28adabcbcc361956acd276c5/assets/gifs/linux.gif?raw=true" /><br>
+-  <img alt="GIF" src="https://github.com/caokietbk/caokietbk/blob/d634b14ba8a2a81b28adabcbcc361956acd276c5/assets/gifs/developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter**. <br>
 - <img src="https://github.com/caokietbk/caokietbk/blob/d634b14ba8a2a81b28adabcbcc361956acd276c5/assets/gifs/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring and learning new **Technology**. <br>
 - &nbsp;&nbsp;<img src="https://github.com/caokietbk/caokietbk/blob/d634b14ba8a2a81b28adabcbcc361956acd276c5/assets/gifs/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**Flutter** enthusiast.<br>
 - <img src="https://github.com/caokietbk/caokietbk/blob/d634b14ba8a2a81b28adabcbcc361956acd276c5/assets/gifs/message.gif?raw=true" width="25" />&nbsp;&nbsp; Telegram: **[caokietbk](https://t.me/caokietbk)** <br>
