@@ -1,16 +1,16 @@
 # Hi, I'm Cao Kiệt <img src="https://github.com/caokietbk/caokietbk/blob/d634b14ba8a2a81b28adabcbcc361956acd276c5/assets/gifs/wave.gif" width="35px">
 
-## 💻 OSs
+## 💻 OS
 ![MacOS](https://img.shields.io/badge/-MacOS-5c5c5c?style=plastic&logo=apple)
 ![Windows](https://img.shields.io/badge/-Windows-5c5c5c?style=plastic&logo=windows&logoColor=2daffe)
 ![Linux](https://img.shields.io/badge/-Linux-5c5c5c?style=plastic&logo=linux&logoColor=yellow)
 
-## 📝 IDEs
+## 📝 IDE
 ![Vim](https://img.shields.io/badge/-Vim-00ff00?style=plastic&logo=vim)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-141414?style=plastic&logo=intellij-idea)
 
-## 🚀 Technologies
+## 🚀 Technology
 <p align="center">
 <a href="https://www.java.com" target="_blank"><img align="center" alt="Java" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/java/java.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="center" alt="Android" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/android/android.svg"> </a>
@@ -31,7 +31,7 @@
 - <img src="https://github.com/caokietbk/caokietbk/blob/d634b14ba8a2a81b28adabcbcc361956acd276c5/assets/gifs/letterbox.gif?raw=true" width="25" /> &nbsp; Gmail: **[caokiet.bk@gmail.com](https://caokiet.bk@gmail.com)** <br>
 
 
-## 📊 Stats
+## 📊 Stat
 <div align="center" >
   
 <a  href="https://github.com/caokietbk"> 
